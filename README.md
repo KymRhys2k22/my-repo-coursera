@@ -1,2 +1,2 @@
-# my-repo-coursera
-Practice account for learning Git
+# my-repo-courser minor update
+Practice account or learning Git
